@@ -1,11 +1,9 @@
 # WorldAutoVCTrain
 
 This program is a training script for WorldAutoVC, a real-time zero-shot voice quality conversion model.  
-
 AutoVC.pytorch by peisuke is used in some parts of this program.  
 
 本プログラムは，リアルタイムゼロショット声質変換モデルであるWorldAutoVCの学習用スクリプトです．  
-
 本プログラムの一部で，peisuke氏の[AutoVC.pytorch](https://github.com/peisuke/AutoVC.pytorch)を使用しています．
 
 ## How to use
